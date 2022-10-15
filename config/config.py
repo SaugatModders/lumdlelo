@@ -10,14 +10,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int("")
-API_HASH = str("")
+API_ID = int("22078178")
+API_HASH = str("d8b5fdd23f55a4ae9f709807b88406be")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = int("")
+BOT_TOKEN = str("5585173601:AAEzA2CCOu0ESerPRZcoXGHXAoTICi2dzBQ")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = str("mongodb+srv://estella:iambrijesh@cluster0.0tkts.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+MONGO_DB_URI = str("mongodb+srv://harop:harop@cluster0.ubnnma3.mongodb.net/?retryWrites=true&w=majority")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
@@ -30,13 +30,13 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int("-1001721741287")
+LOG_GROUP_ID = int("-1001634650844")
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = str("🎧•⏤͟͟͞͞𝙀𝙎𝘽𝙊𝙏» Music Bot •🎸•#𝐒_𝐋𝐈𝐅𝐄𝐋𝐈𝐍𝐄")
+MUSIC_BOT_NAME = str("Shizuka")
 
 # Your User ID.
-OWNER_ID = [int("5189089339"), int("5531925252")] # Input type must be interger
+OWNER_ID = [int("5189089339"), int("5585173601")] # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -56,8 +56,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/life_codes")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/life_codes")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/shizuka_update")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/mrnhgrx")
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", True)
@@ -123,7 +123,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "AQC7Gj7zkQBpI_a4oEHoW9oFM0UIyhnE9k5crPukc5KLuinK1udKY8kNXJAVbr101rhqQXvXCqaLSOP8qrOQPKlEmYX_g1B1jJfqCw93n1Cbwa0yBruRvmeahkBX_LoIFQFLjkJHNCvC8Biwfy5p-6dEBa3ahYDZQPPrlwPfscdjUEfQk0LHU6d9lK8tDWGiwRrhvgADGlDM7PBFKTpMK30uJh2Nm9v2oYkDuXWnZQxylI6S54pOYTjd7mzLQnFDmB4RSqt36VGyH9a03chDMS6DpkQtMflVDR_3CtAe-G_iGOOgKECyh6153NIYozo1aZJpsk-yBuFGsd0D1DkD5daoAAAAAVPnuY0A")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
