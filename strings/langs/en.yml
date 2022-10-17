@@ -1,27 +1,27 @@
 name : 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 
 # General Strings
-general_1 : "REPLY TO USER OR GIVE ID OF VICTIM!\n\n@Life_Codes"
-general_2 : "Wrong Usage Of Commands\n\nSupport Us:\n@Life_Codes"
-general_3 : "Try Again Becouse.\n\nReason {0} Happened!\nSupport Us:\n@Life_Codes"
-general_4 : "Anonymous admins can't Use This Bot\nRevert back to User Account From Admin Rights.\nSupport Us:\n@Life_Codes"
-general_5 : "Be admin with manage voice chat rights to perform this action.\nSupport Us:\n@Life_Codes"
+general_1 : "REPLY TO USER OR GIVE ID OF VICTIM!\n\n@Shizuka_update"
+general_2 : "Wrong Usage Of Commands\n\nSupport Us:\n@Shizuka_update"
+general_3 : "Try Again Becouse.\n\nReason {0} Happened!\nSupport Us:\n@Shizuka_update"
+general_4 : "Anonymous admins can't Use This Bot\nRevert back to User Account From Admin Rights.\nSupport Us:\n@Shizuka_update"
+general_5 : "Be admin with manage voice chat rights to perform this action.\nSupport Us:\n@Shizuka_update"
 general_6 : "Bot Is Not Streaming Anything!\nSupport Us:\n@Life_Codes"
 
 # Classes - Telegram.py
-tg_1 : "Bot Is Too Much Busy This Time\n\n**Try After:** {0} (__expected time__)\nSupport Us:\n@Life_Codes"
+tg_1 : "Bot Is Too Much Busy This Time\n\n**Try After:** {0} (__expected time__)\nSupport Us:\n@Shizuka_update"
 tg_2 : "Failed to download the media from telegram.\nSupport Us:\n@Life_Codes"
 
 # Core - Call.py
 call_1 : "Give Invite User Permission To The Bot.\nSupport Us:\n@Life_Codes"
-call_2 : "Assistant Banned In Your Group. Please Unban This Assistant\n\n**Assistant Username:** @{0}\n**Assistant ID:** {1}\n\nAsk Help In @ESBOT_CHAT\nSupport Us:\n@Life_Codes"
-call_3 : "Unable To Invite Assistant Becouse\n\n**Reason**: {0} Happened!\nSupport Us:\n@Life_Codes\n\nAsk Here :- @ESBOT_CHAT"
-call_4 : "Bot requires **Invite Users Permission** to add assistant account in your chat group.\nSupport Us:\n@Life_Codes"
+call_2 : "Assistant Banned In Your Group. Please Unban This Assistant\n\n**Assistant Username:** @{0}\n**Assistant ID:** {1}\n\nAsk Help In @Mrnhgrx\nSupport Us:\n@Shizuka_update"
+call_3 : "Unable To Invite Assistant Becouse\n\n**Reason**: {0} Happened!\nSupport Us:\n@Life_Codes\n\nAsk Here :- @Mrnhgrx"
+call_4 : "Bot requires **Invite Users Permission** to add assistant account in your chat group.\nSupport Us:\n@Shizuka_update"
 call_5 : "Please Wait!\nMusic Player Is Coming..."
-call_6 : "Assistant Account [{0}] Started Playing In The Voice Chat\nSupport Us:\n@Life_Codes"
+call_6 : "Assistant Account [{0}] Started Playing In The Voice Chat\nSupport Us:\n@Shizuka_update"
 call_7 : "Thanks For Making Me Admin As Respective Bot :)"
 call_8 : "Thanks For Making Me Admin As Respective Bot :)"
-call_9 : "**Switching Failed**\nPlease use /skip to change track again.\nSupport Us:\n@Life_Codes"
+call_9 : "**Switching Failed**\nPlease use /skip to change track again.\nSupport Us:\n@Shizuka_update"
 call_10 : "Loading Next Track..."
 call_11 : "Please add @{0} to your channel[ ID: {1}].\n\nBot is not able to get channel details."
 
