@@ -226,11 +226,11 @@ queue_1 : "⏳Please Wait.."
 queue_2 : "Playlist is empty. No tracks found"
 queue_3 : "<u>**Added Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
 queue_4 : "Added✅ to Playlist **#{0}\n\n🗒Name:** {1}\n**⏱Time:** {2}\n👤**Added By:** {3}\n\nMore At: @Shizuka_update"
-queue_5 : "Only One Track Left In The Queued!\nPlease Add More Track!💖\n\nGIFs Here ~ @LIFE_CODES"
+queue_5 : "Only One Track Left In The Queued!\nPlease Add More Track!💖\n\nGIFs Here ~ @Shizuka_update"
 
 # All Streaming Lines
 stream_1 : "🎥 **Playing In Voice Chat** \n\n👤**Played By:** {0}\n🔦**Info: **[Here]({1})\nMore : @Shizuka_update"
-stream_2 : "🎥 **Playing via URL ** \n\n👤**Played By:** {0}\nMore : @Life_codes"
+stream_2 : "🎥 **Playing via URL ** \n\n👤**Played By:** {0}\nMore : @Shizuka_update"
 stream_3 : "🎥 **Playing** \n\n**🏷Name:** {0}\n⌛️**Speed**: {1}\n👤**Added By:** {2}\nMore : @Shizuka_update"
 stream_4 : "🎥 **Playing** \n\n**🏷Name:** [{0}]({1})\n⌛️**Time**: {2}\n👤**Added By:** {3}\nMore : @Shizuka_update"
 
