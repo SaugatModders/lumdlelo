@@ -154,11 +154,11 @@ autoclean = []
 
 # Images
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/435582b84bc108d6ae0cf.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/c1126c27ba625cd1cd31a.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL",
+    "PING_IMG_URL", "https://telegra.ph/file/c1126c27ba625cd1cd31a.jpg"
     "assets/Ping.jpeg",
 )
 
@@ -173,7 +173,7 @@ GLOBAL_IMG_URL = getenv(
 )
 
 STATS_IMG_URL = getenv(
-    "STATS_IMG_URL",
+    "STATS_IMG_URL", "https://telegra.ph/file/c1126c27ba625cd1cd31a.jpg"
     "assets/Stats.jpeg",
 )
 
