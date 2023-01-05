@@ -14,7 +14,7 @@ API_ID = int("22078178")
 API_HASH = str("d8b5fdd23f55a4ae9f709807b88406be")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = str("5585173601:AAHp--yPOuCrAWW1JgsZMgXP3qM5STJZqp0")
+BOT_TOKEN = str("5590537210:AAGHph0zR3MkENai2zMSMRMFYVtoD3npx34")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
 MONGO_DB_URI = str("mongodb+srv://Mukesh01:mstboy@cluster0.8jwzl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
@@ -30,10 +30,10 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int("-1001634650844")
+LOG_GROUP_ID = int("-1001848826437")
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = str("Shizuka")
+MUSIC_BOT_NAME = str("Shinchan Music")
 
 # Your User ID.
 OWNER_ID = [int("5189089339"), int("5585173601")] # Input type must be interger
